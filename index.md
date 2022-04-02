@@ -1,4 +1,4 @@
-[module2-solution](https://github.com/IlyaSorokin001/coursera-test/module2-solution/index.html)
+[module2-solution](https://ilyasorokin001.github.io/coursera-test/module2-solution/index.html)
 
 ## Welcome to GitHub Pages
 
